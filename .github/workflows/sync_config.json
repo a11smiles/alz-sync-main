@@ -1,0 +1,27 @@
+{
+    "log_level": "debug",
+    "ado": {
+        "organization": "CSUSolEng",
+        "project": "ALZ GitHub Sync Test",
+        "wit": "GitHub Issue",
+        "states": {
+            "new": "New",
+            "closed": "Closed",
+            "reopened": "New",
+            "deleted": "Removed",
+            "active": "In Progress"
+        },
+        "bypassRules": true,
+        "autoCreate": true,
+        "areaPath": "ALZ GitHub Sync Test",
+        "mappings": {
+            "handles": {
+                "jtracey93": "jatracey@microsoft.com",
+                "mblant": "mblant@microsoft.com",
+                "krowlandson": "kerowlan@microsoft.com",
+                "matt-FFFFFF": "mawhi@microsoft.com",
+                "JefferyMitchell": "jemitche@microsoft.com"
+            }
+        }
+    }
+}
